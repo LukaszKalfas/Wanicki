@@ -1,0 +1,32 @@
+{
+  "id": "69d302c4-06df-4089-b5cf-2180d0181cfb",
+  "name": "Base Extension",
+  "publisher": "NMI ERP Sp. z o.o.",
+  "version": "1.0.1.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "24.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 79999
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "13.0",
+  "features": ["TranslationFile"],
+  "target": "Cloud",
+  "supportedLocales": ["pl-PL", "en-US"]
+}
