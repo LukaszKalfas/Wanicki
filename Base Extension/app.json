@@ -16,8 +16,8 @@
   "application": "24.0.0.0",
   "idRanges": [
     {
-      "from": 50100,
-      "to": 50149
+      "from": 50000,
+      "to": 79999
     }
   ],
   "resourceExposurePolicy": {
@@ -26,7 +26,7 @@
     "includeSourceInSymbolFile": true
   },
   "runtime": "13.0",
-  "features": [
-    "NoImplicitWith"
-  ]
+  "features": ["TranslationFile"],
+  "target": "Cloud",
+  "supportedLocales": ["pl-PL", "en-US"]
 }
