@@ -2,7 +2,7 @@
   "id": "1db4f329-9e62-4750-b328-7482260a118b",
   "name": "Prepayments",
   "publisher": "Default Publisher",
-  "version": "1.0.0.0",
+  "version": "1.0.1.0",
   "brief": "",
   "description": "",
   "privacyStatement": "",
@@ -16,8 +16,8 @@
   "application": "24.0.0.0",
   "idRanges": [
     {
-      "from": 50100,
-      "to": 50149
+      "from": 51000,
+      "to": 79999
     }
   ],
   "resourceExposurePolicy": {
@@ -26,7 +26,7 @@
     "includeSourceInSymbolFile": true
   },
   "runtime": "13.0",
-  "features": [
-    "NoImplicitWith"
-  ]
+  "features": ["TranslationFile"],
+  "target": "Cloud",
+  "supportedLocales": ["pl-PL", "en-US"]
 }
