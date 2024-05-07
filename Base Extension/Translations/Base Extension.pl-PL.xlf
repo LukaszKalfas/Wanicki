@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="pl-PL" original="Base Extension">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 538946354 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>BE Service Plan Header</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BE Service Plan Header - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 538946354 - Field 2378863201 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Contact Name</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BE Service Plan Header - Field Contact Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 538946354 - Field 202036913 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Contact No.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BE Service Plan Header - Field Contact No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 538946354 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BE Service Plan Header - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 538946354 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BE Service Plan Header - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 538946354 - Field 2944398013 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Realization End</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BE Service Plan Header - Field Realization End - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 538946354 - Field 3415165528 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Realization Start</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BE Service Plan Header - Field Realization Start - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 428790951 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>BE Service Plan Card</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BE Service Plan Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 428790951 - Control 3993128796 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Contact</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BE Service Plan Card - Control Contact - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 428790951 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BE Service Plan Card - Control General - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
