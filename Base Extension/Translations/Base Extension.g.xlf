@@ -53,6 +53,26 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page BE Service Plan Card - Control General - Property Caption</note>
         </trans-unit>
+        <trans-unit id="TableExtension 2018825276 - Field 3594614433 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2818324089">
+          <source>Job Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension BE Job - Field Job Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2018825276 - Field 4220593041 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2818324089">
+          <source>Make Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension BE Job - Field Make Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 592777980 - EnumValue 2187938695 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Service</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum BE Job Type - EnumValue Service - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 592777980 - EnumValue 2672704373 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Standard</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum BE Job Type - EnumValue Standard - Property Caption</note>
+        </trans-unit>
       </group>
     </body>
   </file>
